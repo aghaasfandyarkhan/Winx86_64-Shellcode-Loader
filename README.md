@@ -48,8 +48,8 @@ If both commands return a version number, you're good to go.
 ## Clone the Repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
-cd <REPOSITORY-DIRECTORY>
+git clone https://github.com/aghaasfandyarkhan/Winx86_64-Shellcode-Loader.git
+cd Winx86_64-Shellcode-Loader
 ```
 
 ## Configure the Loader
