@@ -8,6 +8,8 @@ I built this mainly to experiment with Rust, payload handling, and the kind of f
 
 > **Note:** Only use this project on systems you own or have explicit permission to test.
 
+<img width="1254" height="1254" alt="Image" src="https://github.com/user-attachments/assets/0408222d-1e1c-401c-9999-9b3f96ff72e1" />
+
 ## How It Works
 
 The loader follows a simple workflow:
