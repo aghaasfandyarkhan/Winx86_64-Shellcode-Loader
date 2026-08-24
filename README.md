@@ -35,7 +35,6 @@ src/main.rs
 ## Requirements
 
 You need the Rust toolchain installed.
-
 Check whether Rust and Cargo are available:
 
 ```bash
@@ -61,7 +60,6 @@ src/main.rs
 ```
 
 Inside the file, configure the remote server URL of `shellcode.bin` and the destination path according to your test environment.
-
 Make sure the remote server actually contains the expected file before running the program. After editing the 'main.rs' file go backward one step from the directory and run the below commands where the 'Cargo.toml' file exists.
 
 ## Build With Cargo
@@ -123,7 +121,6 @@ cargo build --release --target x86_64-pc-windows-gnu
 ## Testing Environment
 
 I'd recommend testing this inside a VM or another isolated environment rather than directly on your main system.
-
 For example:
 
 ```text
