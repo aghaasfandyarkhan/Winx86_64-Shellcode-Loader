@@ -12,6 +12,8 @@ I built this mainly to experiment with Rust, payload handling, and the kind of f
 
 ## How It Works
 
+## **Medium Article:** [Click here to open the article](https://aghaasfandyarkhan.medium.com/how-shellcode-loaders-use-a-whole-different-logic-than-other-malwares-red-team-operation-6dbe4a0ae49e?sharedUserId=aghaasfandyarkhan)
+
 The loader follows a simple workflow:
 
 1. Connects to the configured remote server.
