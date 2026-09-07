@@ -17,8 +17,8 @@ I built this mainly to experiment with Rust, payload handling, and the kind of f
 The loader follows a simple workflow:
 
 1. Connects to the configured remote server.
-2. Downloads `shellcode.bin`.
-3. Stores the downloaded binary at the path configured in `src/main.rs`.
+2. Downloads `shellcode.bin` in specific path.
+3. Executes the shellcode in memory.
 
 The URL and destination path can be changed directly in the source code.
 
